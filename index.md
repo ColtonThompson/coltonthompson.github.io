@@ -3,17 +3,13 @@
 
 ### Code Review
 
-<iframe width="560" height="315" src="https://youtu.be/kwWbbS4lTBk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-https://youtu.be/kwWbbS4lTBk
+Link to Code Review on YouTube: https://youtu.be/kwWbbS4lTBk
 
 ### Software Design & Engineering
 
 ### Algorithms & Data Structure
 
 ### Databases
-
-
 
 
 You can use the [editor on GitHub](https://github.com/ColtonThompson/coltonthompson.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
