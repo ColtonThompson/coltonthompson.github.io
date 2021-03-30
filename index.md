@@ -1,14 +1,13 @@
+
 ## Welcome to Colton's ePortfolio!
 
+### Code Review
 
+### Software Design & Engineering
 
-# Software Design & Engineering
+### Algorithms & Data Structure
 
-
-# Algorithms & Data Structure
-
-
-# Databases
+### Databases
 
 
 
