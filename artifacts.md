@@ -18,7 +18,7 @@ Yes, I believe this enhancement achieves its goal to increase the complexity of 
 The main challenge of performing these enhancements was to think of all the things I have learned since this project was written and trying to write those new skills and concepts into my enhancements. A lot of those concepts and skills were cemented when I created my code review earlier in this course as well as a coding standard assignment that took place in secure coding parallel to this class for this final term.
 
 ## Leaderboard Webpage
-[Link to Project](url)
+[Link to Project](https://github.com/ColtonThompson/Leaderboard)
 
 ### What is this? When was it created?
 This artifact is a simple leaderboard written in PHP and HTML. The leaderboard pulls data from a database to satisfy the requirement for this portion of the final project. The project was created on March 30th, 2021.
