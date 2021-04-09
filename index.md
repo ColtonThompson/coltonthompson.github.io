@@ -1,7 +1,7 @@
 
 # Welcome to Colton's ePortfolio!
 
-[Code Review](https://www.youtube.com/watch?v=kwWbbS4lTBk) | [Artifacts](https://coltonthompson.github.io/artifacts) | [Twitter](https://twitter.com/ColtonMThompson)
+[Code Review](https://www.youtube.com/watch?v=kwWbbS4lTBk){:target="_blank" rel="noopener"} | [Artifacts](https://coltonthompson.github.io/artifacts) | [Twitter](https://twitter.com/ColtonMThompson){:target="_blank" rel="noopener"}
 
 ## About
 
