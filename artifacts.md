@@ -3,7 +3,7 @@
 [Back](https://coltonthompson.github.io/) |
 
 ## Authentication System
-[Link to Project](url)
+[Link to Project](https://github.com/ColtonThompson/AuthenticationSystem)
 
 ### What is this? When was it created?
 This artifact is the final project from IT-145 which is an authentication system that is a simple project that has a local credentials text file containing account data both with hashed passwords and raw strings. This artifact was created in August 2019 by me.
