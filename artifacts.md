@@ -1,6 +1,6 @@
 # Artifacts
 
-[Code Review](https://www.youtube.com/watch?v=kwWbbS4lTBk) | [Artifacts](https://coltonthompson.github.io/artifacts) | [Twitter](https://twitter.com/ColtonMThompson)
+[Code Review](https://www.youtube.com/watch?v=kwWbbS4lTBk) | [Assessment](https://coltonthompson.github.io) | [Twitter](https://twitter.com/ColtonMThompson)
 
 ## Authentication System
 [Link to Project](https://github.com/ColtonThompson/AuthenticationSystem)
