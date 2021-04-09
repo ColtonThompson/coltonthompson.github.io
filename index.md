@@ -1,7 +1,7 @@
 
 # Welcome to Colton's ePortfolio!
 
-[www.google.com](Google)
+[Code Review](https://www.youtube.com/watch?v=kwWbbS4lTBk) | [Artifacts](https://coltonthompson.github.io/artifacts) | [Twitter](https://twitter.com/ColtonMThompson)
 
 ## About
 
