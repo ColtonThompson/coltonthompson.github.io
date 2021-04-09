@@ -5,7 +5,7 @@
 ## Authentication System
 [View Code](https://github.com/ColtonThompson/AuthenticationSystem)
 
-###Image
+### Image
 <img src="https://i.imgur.com/gOAjzAV.png">
 
 ### What is this? When was it created?
