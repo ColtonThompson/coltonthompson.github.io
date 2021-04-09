@@ -1,49 +1,18 @@
 
-## Welcome to Colton's ePortfolio!
+# Welcome to Colton's ePortfolio!
 
-### Code Review
+## About
 
-Link to Code Review on YouTube: https://youtu.be/kwWbbS4lTBk
+As I have taken this long journey to earn my bachelor's degree in computer science at SNHU, I have learned many things about the industry, the processes of software development and things about my self that I will carry for the rest of my personal and professional life. I have now been studying computer science for almost 10 years, most of which were in my youth which is what lead me to take this path for a career one day. Southern New Hampshire University has been a great school to be at to learn all the skills that I needed to get my foot into the door of this industry. Each class, each professor and every other staff member was incredibly helpful and always prompt with the communication to get me the information that I needed to succeed.
 
-### Software Design & Engineering
+### Starting Out
 
-### Algorithms & Data Structure
+When I first started with SNHU I had a lot of knowledge of programming and various storage software and languages associated with them but I was missing how the process typically works in a professional environment. The software development life cycle now in retrospect is something I can take myself and apply it to personal or professional projects, solo or in teams of people and feel confident in my ability to contribute work to a project. Languages can be learned at any time, but the fundamentals of the process won't change. This has been the most valuable learning lesson of the computer science program at SNHU for me. 
 
-### Databases
+### Challenges
+
+One of the largest challenges I faced with chasing this dream of being a programmer was school itself, when I first started I actually thought I would end up hitting a wall with math or biochemistry or something really difficult. However once I stepped back and started seeing how I was doing with each course as time went on I started growing more and more confident each day with each assignment I submitted. Looking back now I am incredibly impressed with myself with how far i've come but with also how hard I worked to get to this point in my life. I learned that if I want something bad enough, there is nothing stopping me from working to get it. Yes things may take time and alot of commitment but this shows that it pays off in the end to put so much hard work in.
+
+Before school I would fear learning C++ because all my time as a self-taught programmer I struggled with the ideas of pointers or references and the general syntax of the language and don't even get me started about assembly. This language was scary to even look at for me, however with how SNHU does the computer science program I found it very easy to take small steps and learn fundamentals while ramping up the complexity but at a very easy to learn rate. As an added note here, SNHU in general has one of the best scheduling of any university I have seen or gone to. The idea that each class conforms to a general schedule and keeps to it is so helpful in a world where you can very long days or very short days with having to manage your time so precisely that if you take to long you might miss a class or a test window at a testing center.
 
 
-You can use the [editor on GitHub](https://github.com/ColtonThompson/coltonthompson.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ColtonThompson/coltonthompson.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
