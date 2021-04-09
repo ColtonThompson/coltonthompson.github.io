@@ -23,6 +23,9 @@ The main challenge of performing these enhancements was to think of all the thin
 ## Leaderboard Webpage
 [View Code](https://github.com/ColtonThompson/Leaderboard)
 
+### Image
+<img src="https://i.imgur.com/ahTz12e.png">
+
 ### What is this? When was it created?
 This artifact is a simple leaderboard written in PHP and HTML. The leaderboard pulls data from a database to satisfy the requirement for this portion of the final project. The project was created on March 30th, 2021.
 
