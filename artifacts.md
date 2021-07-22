@@ -17,6 +17,26 @@ This item demonstrates my ability to come up with a creative solution to a probl
 ### Challenges and Reflection
 The challenge of this project was initially my knowledge of PHP and understanding how websites operate. The hardest feature to add was saving a person's progress through the guide using checkboxes because there is about 30 pages with over 10-30 steps per page that need individual tracking. With some research and development I managed to solve this problem with around 15 lines of code or less. This project initially was just for me and was never really intended to be for others to use, but after a few weeks because I had planned on using SEO friendly URLs it blew up and now receives (at the time of this writing) 50k unique visits a month and is showing signs of growth still.
 
+## Relleka - Community Website
+[View Code](https://github.com/ColtonThompson/Relleka)
+
+### Image
+![Image of Relleka](https://i.imgur.com/YG45owg.png)
+
+![Image of Relleka Leaderboards](https://i.imgur.com/0PHQLoH.png)
+
+### What is this? When was it created?
+
+This is a website created for a private server community for RuneScape. This website served as a portal to connect the community together and serviced features such as news, leaderboards and community forums.
+
+### Why did I select this item? What specific components does this artifact showcase of my skills and abilities in software development? How was it improved?
+
+This item was selected because it showcases my ability to work with PHP/HTML/CSS utilizing CSS frameworks such as Bootstrap to build and design a website from scratch. This website also shows how i've grown over the years as a programmer compared to more recent projects since the development of this project.
+
+### Challenges and Reflection
+
+The challenge of building Relleka was building a website that was capable of acting as a home page for an entire community that was tied around the hosting of a game server, to continously provide constant news and announcements, provide game downloads, and act as a place that people could come and converse with one another and add to the experience for the game itself. I am proud of myself for sticking with the project (despite the spaghetti code) because I learned alot from it and I completed it to a working level that people enjoyed and used daily for almost 6+ months.
+
 ## Authentication System
 [View Code](https://github.com/ColtonThompson/AuthenticationSystem)
 
